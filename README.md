@@ -9,6 +9,8 @@
 Ini adalah Program Penginputan data Mahasiswa dengan Package dan Modul
 Berikut Gambar Dari Struktur Program
 ![Gambar](Foto/ss1.png)
+
+
 ✓ daftar_nilai.py berisi modul untuk:
 tambah_data, ubah_data, hapus_data, dan cari_data
 ✓ view_nilai.py berisi modul untuk:
