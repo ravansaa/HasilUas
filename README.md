@@ -78,12 +78,15 @@ Menggunakan Fungsi 6 untuk keluar dari program
 ![Gambar](Foto/ss11.png)
 
 ### Codingan Program
-
+#### Daftar_nilai.py
 ![Gambar](Foto/e1.png)
 ![Gambar](Foto/e2.png)
+#### Input_nilai.py
 ![Gambar](Foto/e3.png)
-![Gambar](Foto/e4.png)
+#### View_nilai.py
+![Gambar](Foto/ee4.png)
 ![Gambar](Foto/e5.png)
+#### Main.py
 ![Gambar](Foto/e6.png)
 ![Gambar](Foto/e7.png)
 
