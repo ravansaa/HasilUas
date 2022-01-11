@@ -79,12 +79,12 @@ Menggunakan Fungsi 6 untuk keluar dari program
 
 ### Codingan Program
 
-![Gambar](Foto/c1.png)
-![Gambar](Foto/c2.png)
-![Gambar](Foto/c3.png)
-![Gambar](Foto/c4.png)
-![Gambar](Foto/c5.png)
-![Gambar](Foto/c6.png)
-![Gambar](Foto/c7.png)
+![Gambar](Foto/e1.png)
+![Gambar](Foto/e2.png)
+![Gambar](Foto/e3.png)
+![Gambar](Foto/e4.png)
+![Gambar](Foto/e5.png)
+![Gambar](Foto/e6.png)
+![Gambar](Foto/e7.png)
 
 ## Sekian Dan Terimakasih
