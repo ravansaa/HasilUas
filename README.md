@@ -25,7 +25,7 @@ input_data yang meminta penggunamemasukkan data.
 
 ✓ main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
 
-Menjalankan file Main karna dia adalah file utama untuk memanggil fungsi-fungsi yang ada lalu akan muncul menu seperti berikut:
+### Menjalankan file Main karna dia adalah file utama untuk memanggil fungsi-fungsi yang ada lalu akan muncul menu seperti berikut:
 ![Gambar](Foto/ss2.png)
 Kita sebagai user di perkenankan untuk memilih fungsi program dengan ketentuan:
 input no 1. Untuk Tambah Data (Ketika Memilih 1 data dari input nilai dan daftar nilai di tarik ke main untuk di beri data)
